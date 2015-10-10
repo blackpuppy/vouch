@@ -1,4 +1,7 @@
 Router.route('home', {
-	path:"/",
-	template:"itemViewer"
+	path: "/",
+	template: "itemViewer",
+	waitFor: function(){
+		return Meteor.subscribe("items");
+	}
 });

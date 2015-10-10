@@ -1,6 +1,13 @@
 <template name="itemViewer">
 	<div class="itemContainer">
+	{{#with getItem}}
 		<img src="{{image}}" />
+		<br/>
 		<span class="brief">{{brief}}</span>
+		<br/>
+		<button class="details">View Vouch</button>
+		<br/>
+		<button class="skip">Good Luck</button>
+	{{/with}}
 	</div>
 </template>
