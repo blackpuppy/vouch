@@ -1,10 +1,9 @@
 Template.itemDetails.helpers({
 	getItem: function() {
-		var parts = location.href.split('/');
-		var id = parts.pop();
-		var item = Items.findOne(id);
-	  	console.info('helper getItem(): found item ', item);
-	  	return item;
+		var params = Router.current().params;
+		var item = Items.findOne(params._id);
+		// console.info('helper getItem(): found item ', item);
+		return item;
 	}
 });
 
