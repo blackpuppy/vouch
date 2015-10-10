@@ -13,7 +13,7 @@ Template.itemViewer.helpers({
 Template.itemViewer.events({
 	'click .details': function(e, tmpl){
 		// show the current item in details
-		Meteor.Router.to('/items/' + this._id);
+		Router.go('/items/' + this._id);
 	},
 	'click .skip': function(e, tmpl){
 		// get next item

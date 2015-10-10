@@ -5,3 +5,8 @@ Router.route('home', {
 		return Meteor.subscribe("items");
 	}
 });
+
+Router.route('/items/:_id', function () {
+  var item = Items.findOne({_id: this.params._id});
+  this.render('itemDetails', {data: item});
+});

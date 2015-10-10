@@ -1,0 +1,15 @@
+<template name="itemDetails">
+	<div class="itemContainer">
+	{{#with getItem}}
+		<img src="{{image}}" />
+		<br/>
+		<span class="brief">{{brief}}</span>
+		<br/>
+		<span class="story">{{story}}</span>
+		<br/>
+		<button class="join">Join Vouch</button>
+		<br/>
+		<button class="skip">Good Luck</button>
+	{{/with}}
+	</div>
+</template>
