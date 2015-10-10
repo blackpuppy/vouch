@@ -1,0 +1,86 @@
+.version.index /* version checker */
+{
+	color: #000010;
+	background-color: #19E32F;
+}
+
+.html
+{
+	background: #F0667D url("../images/sky2.gif") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u984-4
+{
+	z-index: 2;
+	width: 418px;
+	min-height: 20px;
+	background-color: transparent;
+	color: #EB4C66;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 341px;
+	left: 271px;
+}
+
+#u1003
+{
+	z-index: 6;
+	width: 630px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 165px;
+}
+
+#u1373
+{
+	z-index: 8;
+	width: 144px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 386px;
+	left: 521px;
+}
+
+#u1367
+{
+	z-index: 10;
+	width: 186px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 381px;
+	left: 295px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

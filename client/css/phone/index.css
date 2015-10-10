@@ -1,0 +1,337 @@
+.version.index /* version checker */
+{
+	color: #0000F0;
+	background-color: #8E41D3;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 545px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#slideshowu312
+{
+	z-index: 5;
+	width: 0.01px;
+	height: 545px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u323
+{
+	position: absolute;
+	width: 380px;
+	height: 545px;
+	background-color: transparent;
+}
+
+#u323popup
+{
+	z-index: 6;
+}
+
+#u324
+{
+	z-index: 7;
+	width: 380px;
+	height: 545px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u379
+{
+	z-index: 9;
+	width: 380px;
+	height: 545px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u388
+{
+	z-index: 11;
+	width: 380px;
+	height: 545px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u397
+{
+	z-index: 13;
+	width: 380px;
+	height: 545px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u333
+{
+	position: absolute;
+	width: 247px;
+	background-color: transparent;
+	top: 442px;
+}
+
+#u333popup
+{
+	z-index: 15;
+}
+
+#u334-5
+{
+	z-index: 16;
+	width: 227px;
+	min-height: 83px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F38294;
+	background-color: rgba(235, 47, 78, 0.6);
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(235, 47, 78, 0.6);
+}
+
+#u334-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u334
+{
+	line-height: 25px;
+}
+
+#u334-2
+{
+	font-size: 12px;
+	color: #FDDB00;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 17px;
+}
+
+#u385-4
+{
+	z-index: 21;
+	width: 227px;
+	min-height: 83px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F38294;
+	background-color: rgba(235, 47, 78, 0.6);
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(235, 47, 78, 0.6);
+}
+
+#u394-4
+{
+	z-index: 25;
+	width: 227px;
+	min-height: 83px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F38294;
+	background-color: rgba(235, 47, 78, 0.6);
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(235, 47, 78, 0.6);
+}
+
+#u403-4
+{
+	z-index: 29;
+	width: 227px;
+	min-height: 83px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F38294;
+	background-color: rgba(235, 47, 78, 0.6);
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(235, 47, 78, 0.6);
+}
+
+#u337-3
+{
+	position: absolute;
+	width: 27px;
+	min-height: 28px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	top: 493px;
+	left: 190px;
+}
+
+#u337-3popup
+{
+	z-index: 33;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../../images/loading.gif") no-repeat center center;
+}
+
+#u1053
+{
+	z-index: 38;
+	width: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 505px;
+	left: 13px;
+}
+
+#u1055
+{
+	z-index: 40;
+	width: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 505px;
+	left: 195px;
+}
+
+#u960
+{
+	z-index: 36;
+	width: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -33px;
+	left: 249px;
+}
+
+#u462
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u463
+{
+	z-index: 3;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#u462-bw
+{
+	z-index: 2;
+	margin-bottom: -39px;
+	margin-top: 545px;
+	height: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 38px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -545px;
+}
+
