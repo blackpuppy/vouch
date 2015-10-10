@@ -1,0 +1,170 @@
+.version.signin /* version checker */
+{
+	color: #000009;
+	background-color: #081C43;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 624px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#pu528
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u528
+{
+	z-index: 5;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(235, 47, 78, 0.88)),color-stop(100%, rgba(241, 109, 131, 0.88)));
+	background: -webkit-linear-gradient(top,rgba(235, 47, 78, 0.88) ,rgba(241, 109, 131, 0.88) 100%);
+	background: -o-linear-gradient(top,rgba(235, 47, 78, 0.88) ,rgba(241, 109, 131, 0.88) 100%);
+	background: linear-gradient(to bottom,rgba(235, 47, 78, 0.88) ,rgba(241, 109, 131, 0.88) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E0EB2F4E, endColorstr=#E0F16D83, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#E0EB2F4E', endColorstr='#E0F16D83', GradientType=0)";
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 222px;
+}
+
+#u942
+{
+	z-index: 6;
+	width: 360px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 10px;
+}
+
+#u528-bw
+{
+	z-index: 5;
+	height: 403px;
+}
+
+#u529
+{
+	z-index: 8;
+	width: 54px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	left: 250px;
+}
+
+#u531
+{
+	z-index: 10;
+	width: 54px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	left: 163px;
+}
+
+#u533
+{
+	z-index: 12;
+	width: 54px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	left: 76px;
+}
+
+#u535-4
+{
+	z-index: 14;
+	width: 228px;
+	min-height: 28px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 285px;
+	left: 76px;
+}
+
+#u462
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u463
+{
+	z-index: 3;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#u462-bw
+{
+	z-index: 2;
+	margin-bottom: -39px;
+	margin-top: 625px;
+	height: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 38px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -624px;
+}
+

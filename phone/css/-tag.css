@@ -1,0 +1,687 @@
+.version.__tag /* version checker */
+{
+	color: #0000F0;
+	background-color: #97860E;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 804px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	margin-top: -13px;
+	margin-bottom: -39px;
+}
+
+#pu1379
+{
+	width: 0.01px;
+}
+
+#u1379
+{
+	z-index: 5;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 124px;
+}
+
+#u1383
+{
+	z-index: 7;
+	width: 13px;
+	background-color: transparent;
+	-webkit-transform: matrix(0.9563,0.2924,-0.2924,0.9563,2,-2);
+	-ms-transform: matrix(0.9563,0.2924,-0.2924,0.9563,2,-2);
+	-o-transform: matrix(0.9563,0.2924,-0.2924,0.9563,2,-2);
+	transform: matrix(0.9563,0.2924,-0.2924,0.9563,2,-2);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 132px;
+}
+
+#u1387
+{
+	z-index: 9;
+	background: -webkit-gradient(linear, center top, center bottom, from(#E3DDE7),color-stop(100%, rgba(189, 194, 199, 0.69)));
+	background: -webkit-linear-gradient(top,#E3DDE7 ,rgba(189, 194, 199, 0.69) 100%);
+	background: -o-linear-gradient(top,#E3DDE7 ,rgba(189, 194, 199, 0.69) 100%);
+	background: linear-gradient(to bottom,#E3DDE7 ,rgba(189, 194, 199, 0.69) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFE3DDE7, endColorstr=#AFBDC2C7, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFE3DDE7', endColorstr='#AFBDC2C7', GradientType=0)";
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 12px;
+}
+
+#u1388-10
+{
+	z-index: 10;
+	width: 334px;
+	min-height: 24px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 23px;
+}
+
+#u1388-8
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1388
+{
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 22px;
+}
+
+#u1388-3
+{
+	font-size: 13px;
+	line-height: 16px;
+}
+
+#u1388-2,#u1388-5
+{
+	line-height: 19px;
+}
+
+#u1388-6
+{
+	font-size: 15px;
+	color: #EB4C66;
+	line-height: 18px;
+}
+
+#u1388-4,#u1388-7
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u1387-bw
+{
+	z-index: 9;
+	margin-top: 138px;
+	height: 36px;
+}
+
+#u1059
+{
+	z-index: 56;
+	width: 149px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 116px;
+}
+
+#u1386-4
+{
+	z-index: 58;
+	width: 36px;
+	min-height: 12px;
+	background-color: transparent;
+	color: #EB4C66;
+	font-size: 7px;
+	line-height: 8px;
+	font-style: italic;
+	-webkit-transform: matrix(0.7071,-0.7071,0.7071,0.7071,1,14);
+	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,1,14);
+	-o-transform: matrix(0.7071,-0.7071,0.7071,0.7071,1,14);
+	transform: matrix(0.7071,-0.7071,0.7071,0.7071,1,14);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 102px;
+	left: 136px;
+}
+
+#pamphletu627
+{
+	z-index: 21;
+	width: 0.01px;
+	height: 268px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u630popup
+{
+	z-index: 22;
+}
+
+#u631
+{
+	z-index: 23;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #EB4C66 url("../../images/idol.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u632
+{
+	z-index: 24;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u633
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u651
+{
+	z-index: 20;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/apple%20watch-u651-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pamphletu660
+{
+	z-index: 27;
+	width: 0.01px;
+	height: 268px;
+	position: relative;
+	margin-right: -10000px;
+	left: 190px;
+}
+
+#u665popup
+{
+	z-index: 28;
+}
+
+#u666
+{
+	z-index: 29;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #F0667D url("../../images/idol.png") no-repeat center center;
+}
+
+#u661
+{
+	z-index: 30;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u662
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u655
+{
+	z-index: 26;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 190px;
+	background: #FFFFFF url("../../images/david-beckham-u655-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pamphletu672
+{
+	z-index: 33;
+	width: 0.01px;
+	height: 268px;
+	position: relative;
+}
+
+#u681popup
+{
+	z-index: 34;
+}
+
+#u682
+{
+	z-index: 35;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #F0667D url("../../images/idol.png") no-repeat center center;
+}
+
+#u673
+{
+	z-index: 36;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u674
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+.ie #u633,.ie #u662,.ie #u674
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u674.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+#u671
+{
+	z-index: 32;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	background: #FFFFFF url("../../images/vintagebike-u671-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pamphletu684
+{
+	z-index: 39;
+	width: 0.01px;
+	height: 268px;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 190px;
+}
+
+#u693
+{
+	position: absolute;
+	width: 190px;
+	background-color: transparent;
+	top: 1px;
+}
+
+#u693popup
+{
+	z-index: 40;
+}
+
+#u694
+{
+	z-index: 41;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #F0667D url("../../images/idol.png") no-repeat center center;
+}
+
+#u689
+{
+	z-index: 42;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u690
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+.ie #u674.PamphletThumbSelected,.ie #u690
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u690.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+#u683
+{
+	z-index: 38;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 190px;
+	background: #FFFFFF url("../../images/india-u683-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pamphletu704
+{
+	z-index: 45;
+	width: 0.01px;
+	height: 268px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u705
+{
+	position: absolute;
+	width: 190px;
+	background-color: transparent;
+	left: 1px;
+}
+
+#u705popup
+{
+	z-index: 46;
+}
+
+#u706
+{
+	z-index: 47;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #F0667D url("../../images/idol.png") no-repeat center center;
+}
+
+#u709
+{
+	z-index: 48;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u710
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+.ie #u690.PamphletThumbSelected,.ie #u710
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u710.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+#pu651,#pu671,#pu703
+{
+	width: 0.01px;
+	margin-top: -268px;
+}
+
+#u703
+{
+	z-index: 44;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/apple%20watch-u651-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#ppamphletu716
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 190px;
+}
+
+#pamphletu716
+{
+	z-index: 51;
+	width: 0.01px;
+	height: 269px;
+	position: relative;
+}
+
+#u630,#u665,#u681,#u721
+{
+	position: absolute;
+	width: 190px;
+	background-color: transparent;
+}
+
+#u721popup
+{
+	z-index: 52;
+}
+
+#u722
+{
+	z-index: 53;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	margin-right: -10000px;
+	position: relative;
+	background: #F0667D url("../../images/idol.png") no-repeat center center;
+}
+
+#u719
+{
+	z-index: 54;
+	width: 190px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u720
+{
+	position: absolute;
+	width: 190px;
+	height: 268px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+.ie #u710.PamphletThumbSelected,.ie #u720
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u720.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+.ie #u720.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u715
+{
+	z-index: 50;
+	width: 190px;
+	height: 268px;
+	border-style: none;
+	border-color: transparent;
+	top: -269px;
+	margin-bottom: -268px;
+	position: relative;
+	background: #FFFFFF url("../../images/david-beckham-u655-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u462
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u463
+{
+	z-index: 3;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#u462-bw
+{
+	z-index: 2;
+	height: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 38px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

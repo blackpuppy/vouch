@@ -1,0 +1,374 @@
+.version.personal_challenge /* version checker */
+{
+	color: #0000F7;
+	background-color: #B3C9C7;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 662px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	margin-bottom: -39px;
+}
+
+#pu1296
+{
+	width: 0.01px;
+}
+
+#u1296
+{
+	z-index: 5;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 260px;
+	background: #F3F2F4 url("../../images/apple%20watch.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1282
+{
+	z-index: 47;
+	width: 102px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -16px;
+	left: 291px;
+}
+
+#u1296-bw
+{
+	z-index: 5;
+	height: 86px;
+}
+
+#u1294
+{
+	z-index: 6;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255, 255, 255, 0)),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(top,rgba(255, 255, 255, 0) ,#FFFFFF 100%);
+	background: -o-linear-gradient(top,rgba(255, 255, 255, 0) ,#FFFFFF 100%);
+	background: linear-gradient(to bottom,rgba(255, 255, 255, 0) ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endColorstr=#FFFFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FFFFFF', endColorstr='#FFFFFFFF', GradientType=0)";
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 33px;
+}
+
+#u1297-6
+{
+	z-index: 8;
+	width: 189px;
+	min-height: 58px;
+	background-color: transparent;
+	text-align: left;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 156px;
+	left: 37px;
+}
+
+#u1297-3
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #4A4A4A;
+	font-style: italic;
+}
+
+#u1297-2
+{
+	font-weight: 700;
+}
+
+#u1297-4
+{
+	color: #FFFFFF;
+}
+
+#u1294-bw
+{
+	z-index: 6;
+	margin-top: 96px;
+	height: 217px;
+}
+
+#u1295
+{
+	z-index: 7;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F0677D;
+	background-color: rgba(235, 47, 78, 0.73);
+	padding-bottom: 8px;
+	-pie-background: rgba(235, 47, 78, 0.73);
+}
+
+#u1271
+{
+	z-index: 28;
+	width: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 37px;
+}
+
+#u1293-8
+{
+	z-index: 14;
+	width: 257px;
+	min-height: 16px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #39B54A;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 63px;
+}
+
+#u1293-6
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1293-2
+{
+	font-size: 12px;
+	color: #FAFAFA;
+	line-height: 14px;
+}
+
+#u1293,#u1293-3
+{
+	color: #FAFAFA;
+	font-weight: 700;
+	line-height: 17px;
+}
+
+#u1293-4
+{
+	line-height: 17px;
+}
+
+#u1293-5
+{
+	font-size: 12px;
+	color: #FAFAFA;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 14px;
+}
+
+#u1295-bw
+{
+	z-index: 7;
+	margin-top: 313px;
+	height: 25px;
+}
+
+#u1298
+{
+	z-index: 22;
+	width: 29px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 315px;
+	left: 320px;
+}
+
+#u1268-4
+{
+	z-index: 24;
+	width: 305px;
+	min-height: 106px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: justify;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 433px;
+	left: 37px;
+}
+
+#u1269
+{
+	z-index: 30;
+	width: 198px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 294px;
+	left: 91px;
+}
+
+#u1274
+{
+	z-index: 32;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E3DDE7;
+	padding-bottom: 16px;
+}
+
+#pu1276
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 22px;
+	margin-left: 46px;
+}
+
+#u1276
+{
+	z-index: 43;
+	width: 34px;
+	background-color: transparent;
+	margin-left: 49px;
+	position: relative;
+}
+
+#u1280-5
+{
+	z-index: 33;
+	width: 133px;
+	min-height: 15px;
+	background-color: transparent;
+	color: #4A4A4A;
+	font-size: 10px;
+	line-height: 12px;
+	text-align: center;
+	margin-top: 8px;
+	position: relative;
+}
+
+#pu1278
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 21px;
+	margin-left: 217px;
+}
+
+#u1278
+{
+	z-index: 45;
+	width: 34px;
+	background-color: transparent;
+	margin-left: 31px;
+	position: relative;
+}
+
+#u1275-5
+{
+	z-index: 38;
+	width: 96px;
+	min-height: 15px;
+	background-color: transparent;
+	color: #4A4A4A;
+	font-size: 10px;
+	line-height: 12px;
+	text-align: center;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u1280,#u1275
+{
+	font-weight: bold;
+}
+
+#u1274-bw
+{
+	z-index: 32;
+	margin-top: 29px;
+	height: 79px;
+}
+
+#u462
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u463
+{
+	z-index: 3;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#u462-bw
+{
+	z-index: 2;
+	height: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 38px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

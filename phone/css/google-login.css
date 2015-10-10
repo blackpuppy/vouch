@@ -1,0 +1,179 @@
+.version.google_login /* version checker */
+{
+	color: #000000;
+	background-color: #E676B6;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#pu748
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 12px;
+}
+
+#u748
+{
+	z-index: 5;
+	width: 368px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u748_img
+{
+	padding-bottom: 1px;
+}
+
+#u754
+{
+	z-index: 7;
+	width: 273px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 110px;
+	left: 39px;
+}
+
+#u898
+{
+	z-index: 8;
+	width: 53px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 10px;
+}
+
+#u901
+{
+	z-index: 10;
+	width: 132px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F7F7F7;
+	padding-bottom: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 121px;
+	left: 100px;
+}
+
+#u903-4
+{
+	z-index: 11;
+	width: 131px;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	color: #236ED3;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 4px;
+}
+
+#u904-4
+{
+	z-index: 15;
+	width: 162px;
+	min-height: 11px;
+	background-color: transparent;
+	font-size: 11px;
+	line-height: 13px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 135px;
+	left: 104px;
+}
+
+#u904
+{
+	font-size: 11px;
+}
+
+#u462
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u463
+{
+	z-index: 3;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#u462-bw
+{
+	z-index: 2;
+	margin-bottom: -39px;
+	margin-top: 570px;
+	height: 30px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 38px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -570px;
+}
+
