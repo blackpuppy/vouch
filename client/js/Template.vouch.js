@@ -43,7 +43,7 @@ Template.vouch.events({
 			event.target.deadline.value = "";
 			event.target.story.value = "";
 		} else {
-			throw new Meteor.Error("missing data");
+			// throw new Meteor.Error("missing data");
 
 			// TODO: show error in user-friendly way
 			alert("missing data");
