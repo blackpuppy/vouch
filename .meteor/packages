@@ -10,6 +10,6 @@ insecure
 jquery
 reactive-var
 iron:router
-mrt:bootstrap-3
 accounts-password
-accounts-ui
+twbs:bootstrap
+ian:accounts-ui-bootstrap-3
