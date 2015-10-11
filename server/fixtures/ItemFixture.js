@@ -14,5 +14,19 @@ Meteor.startup(function(){
 			story: "Damn my youth is running out! I need a husband NOW! Can I buy this man?!",
 			createdAt: new Date(2015, 10, 11, 2, 0, 0, 0)
 		});
+		Items.insert({
+			image: '/images/appstore.png',
+			brief: "I want to own this store in 2116",
+			price: 1000000000,
+			story: "That's the gold mine?!",
+			createdAt: new Date(2015, 10, 11, 8, 50, 0, 0)
+		});
+		Items.insert({
+			image: '/images/india-u683-fr.jpg',
+			brief: "I really dream to own such a palace within 5 years",
+			price: 50000000,
+			story: "When I becomes a king ...!",
+			createdAt: new Date(2015, 10, 11, 8, 55, 0, 0)
+		});
 	}
 });
