@@ -15,15 +15,18 @@ Template.vouch.events({
 
 		// Get values from form elements
 		var brief = event.target.brief.value;
+		var price = event.target.brief.value;
 		var deadline = event.target.deadline.value;
 		var story = event.target.story.value;
 
 		console.log('brief: ', brief);
+		console.log('price: ', price);
 		console.log('deadline: ', deadline);
 		console.log('story: ', story);
 
 		Items.insert({
 			brief: brief,
+			price: price,
 			deadline: deadline,
 			story: story,
 			createdAt: new Date(),
@@ -32,6 +35,7 @@ Template.vouch.events({
 
 		// Clear form
 		event.target.brief.value = "";
+		event.target.price.value = "";
 		event.target.deadline.value = "";
 		event.target.story.value = "";
 	}
