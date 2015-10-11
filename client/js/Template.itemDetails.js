@@ -7,12 +7,12 @@ Template.itemDetails.helpers({
 	}
 });
 
-// Template.itemDetails.events({
-// 	'click .details': function(e, tmpl){
-// 		// show the current item in details
-// 		Router.go('/items/' + this._id);
-// 	},
-// 	'click .skip': function(e, tmpl){
-// 		// get next item
-// 	}
-// });
+Template.itemDetails.events({
+	'click .join': function(e, tmpl){
+		// redirect to login/signup
+		Router.go('/login');
+	},
+	'click .skip': function(e, tmpl){
+		// get next item
+	}
+});
