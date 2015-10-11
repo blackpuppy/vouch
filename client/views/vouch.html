@@ -1,15 +1,19 @@
 <template name="vouch">
 	<div class="vouchContainer">
-		<form class="newVouch">
+		<form class="new-vouch">
 			<button class="upload">Upload</button>
 			<button class="takePhoto">Shoot</button>
 			<button class="search">Search</button>
 			<br/>
-			<input class='brief' type='text' placeholder='Vouch brief...'>
+			<img src='' class='' />
 			<br/>
-			<input class='deadline' type='date'>
+			<input name='brief' type='text' placeholder='Vouch brief...'>
 			<br/>
-			<textarea class='story' placeholder='Vouch your first story here!...'></textarea>
+			<input name='deadline' type='date'>
+			<br/>
+			<textarea name='story' placeholder='Vouch your first story here!...'></textarea>
+			<br/>
+			<input type='submit' value="Vouch it like it's hot!" />
 		</form>
 	</div>
 </template>

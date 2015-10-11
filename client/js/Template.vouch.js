@@ -1,13 +1,4 @@
-Template.itemDetails.helpers({
-	getItem: function() {
-		var params = Router.current().params;
-		var item = Items.findOne(params._id);
-		// console.info('helper getItem(): found item ', item);
-		return item;
-	}
-});
-
-Template.itemDetails.events({
+Template.vouch.events({
 	'click .upload': function(e, tmpl){
 		// upload a photo
 	},
@@ -16,6 +7,33 @@ Template.itemDetails.events({
 	},
 	'click .search': function(e, tmpl){
 		// search a photo
+	},
+	'submit .new-vouch': function (event, tmpl) {
+		event.preventDefault();
+
+		console.log('event: ', event);
+
+		// Get values from form elements
+		var brief = event.target.brief.value;
+		var deadline = event.target.deadline.value;
+		var story = event.target.story.value;
+
+		console.log('brief: ', brief);
+		console.log('deadline: ', deadline);
+		console.log('story: ', story);
+
+		Items.insert({
+			brief: brief,
+			deadline: deadline,
+			story: story,
+			createdAt: new Date(),
+			userId: Meteor.userId()
+		});
+
+		// Clear form
+		event.target.brief.value = "";
+		event.target.deadline.value = "";
+		event.target.story.value = "";
 	}
 });
 
