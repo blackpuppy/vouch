@@ -24,20 +24,30 @@ Template.vouch.events({
 		console.log('deadline: ', deadline);
 		console.log('story: ', story);
 
-		Items.insert({
-			brief: brief,
-			price: price,
-			deadline: deadline,
-			story: story,
-			createdAt: new Date(),
-			userId: Meteor.userId()
-		});
+		if (!!brief || !!price || !!deadline || !!story) {
+			var item = {
+				brief: brief,
+				price: price,
+				deadline: deadline,
+				story: story,
+				createdAt: new Date(),
+				userId: Meteor.userId()
+			};
+			Items.insert(item);
 
-		// Clear form
-		event.target.brief.value = "";
-		event.target.price.value = "";
-		event.target.deadline.value = "";
-		event.target.story.value = "";
+			console.log('item inserted: ', item);
+
+			// Clear form
+			event.target.brief.value = "";
+			event.target.price.value = "";
+			event.target.deadline.value = "";
+			event.target.story.value = "";
+		} else {
+			throw new Meteor.Error("missing data");
+
+			// TODO: show error in user-friendly way
+			alert("missing data");
+		}
 	}
 });
 
