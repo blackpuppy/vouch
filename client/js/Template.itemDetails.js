@@ -10,11 +10,7 @@ Template.itemDetails.helpers({
 Template.itemDetails.events({
 	'click .join': function(e, tmpl){
 		// redirect to login/signup
-		if (Meteor.user()) {
-			Router.go('/login');
-		} else {
-			Router.go('/vouch');
-		}
+		Router.go('/vouch');
 	},
 	'click .skip': function(e, tmpl){
 		// get next item
